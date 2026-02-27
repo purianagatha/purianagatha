@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a dedicated software engineering student with a strong focus on system analysis and data analysis. My skill set<br>includes business analysis, project management, proficiency in various programming languages, expertise in MySQL,<br>and data visualization. I approach every challenge with determination, continually seeking opportunities to expand<br>my knowledge and expertise.
+I am a Software Engineering student with a strong passion for Quality Assurance. I have experience in black-box and
+white-box testing across multiple platforms, as well as automation scripting using Selenium, Appium, Katalon, and
+SonarQube. My technical expertise includes database management (MYSQL, SQL Server) and API testing with Postman.
+I am also proficient in Defect Management tools like JIRA and comfortable working within a Scrum framework
 
 
 ## 🌐 Socials:
